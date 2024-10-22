@@ -10,13 +10,13 @@ function HomePage() {
       
       <div className="bg-white shadow-lg rounded-lg p-8 mb-8">
         <p className="text-xl text-gray-700 mb-6 text-center">
-          Celebrando y preservando la cultura chola a través de productos auténticos y de calidad.
+          Celebrando y preservando la cultura panameña a través de productos auténticos y de calidad.
         </p>
         
         <h3 className="text-2xl font-bold mb-4 text-gray-800">Nuestro Impacto Social</h3>
         <ul className="list-disc pl-6 mb-6 text-gray-700">
           <li className="mb-2">Empoderamos a artesanos locales proporcionándoles una plataforma para mostrar y vender sus creaciones.</li>
-          <li className="mb-2">Preservamos tradiciones culturales al promover productos que reflejan la rica herencia chola.</li>
+          <li className="mb-2">Preservamos tradiciones culturales al promover productos que reflejan la rica herencia panameña.</li>
           <li className="mb-2">Educamos a nuestra comunidad sobre la historia y significado detrás de cada producto.</li>
           <li className="mb-2">Donamos el 5% de nuestras ganancias a organizaciones que apoyan a la juventud en comunidades marginadas.</li>
         </ul>
