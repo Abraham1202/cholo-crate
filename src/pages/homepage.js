@@ -38,7 +38,7 @@ function HomePage() {
         </div>
         <div className="border-l-4 border-blue-500 pl-4">
           <p className="text-gray-700 leading-relaxed">
-            The Prime es un grupo dedicado a la preservación y celebración de la cultura chola. 
+            The Prime es un grupo dedicado a la preservación y celebración de la cultura panameña. 
             Fundado por entusiastas culturales y emprendedores sociales, nuestro objetivo es 
             crear un puente entre la tradición y la modernidad, ofreciendo productos que no solo 
             son estéticamente atractivos, sino que también cuentan una historia y contribuyen 
